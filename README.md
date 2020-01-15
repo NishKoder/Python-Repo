@@ -5,26 +5,18 @@ Every Chapter have excited exercise to find out where u have reached in python
 
 Regards,
 
-
 NishCoder
-
 
 Sr. Mobile App Developer(
    
+    Swift,
    
-   Swift,
+    Android,
    
+    Objective-c,
    
-   Android,
-   
-   
-   Objective-c,
- 
- 
- Python,
+    Python,
   
-  
-  React-Native
-
+    React-Native
 
 )
